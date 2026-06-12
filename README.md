@@ -26,6 +26,12 @@
 
 ### GitHub Repository
 🔗 **Repo:** [https://github.com/NICHOLATE/knit-cs-assessment](https://github.com/NICHOLATE/knit-cs-assessment)
+## Task C: Google Sheets
+🔗 **Link:** https://docs.google.com/spreadsheets/d/1nQinHzxCNuf_oVTAy7MMA25jXDXKuUKYu4LpNuHQ_5g/edit?usp=sharing
+
+## Task D: Operations Scenario  
+🔗 **Link:** https://docs.google.com/document/d/1xGdyBtvSldltyzsU1XBTEQxCO8YTJp9ONBMWFZCPPck/edit?usp=sharing
+
 
 ### Features Implemented
 - ✅ Summary cards (Total Collected, Total Outstanding, Overdue Learners)
