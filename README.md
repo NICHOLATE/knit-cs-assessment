@@ -22,10 +22,10 @@
 ## 🚀 Task A: React School Fee Dashboard
 
 ### Live Demo
-🔗 **Deployed App:** [https://your-app-name.netlify.app  
+🔗 **Deployed App:** https://extraordinary-puffpuff-09f34e.netlify.app/
 
 ### GitHub Repository
-🔗 **Repo:** [https://github.com/your-username/knit-cs-assessment](https://github.com/NICHOLATE/knit-cs-assessment)
+🔗 **Repo:** [https://github.com/NICHOLATE/knit-cs-assessment](https://github.com/NICHOLATE/knit-cs-assessment)
 
 ### Features Implemented
 - ✅ Summary cards (Total Collected, Total Outstanding, Overdue Learners)
