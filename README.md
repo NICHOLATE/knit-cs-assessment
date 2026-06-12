@@ -1,6 +1,6 @@
 # Knit Customer Success Intern - Practical Assessment
 
-**Candidate:** [Your Name]  
+**Candidate:** Nozwelo Sibiya 
 **Date:** June 12, 2026  
 **Time Allowed:** 3-4 hours  
 **Status:** ✅ COMPLETED
